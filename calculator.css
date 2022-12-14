@@ -1,0 +1,50 @@
+#container{
+    width: 400px;
+    background: black;
+    margin: auto;
+    margin-top: 200px;
+}
+#Display{
+    background-color: black;
+    width: 394px;
+    height: 100px;
+    color: white;
+    border-style: solid;
+    border-color: #faffb5;
+    border-width: 3px;
+    
+}
+#display{
+    padding: 20px;
+    font-size: 50px;
+    text-align: right;
+}
+#btncontainer{
+    width: 100%;
+    background: #faffb5;
+}
+.btn{
+    width: 100%;
+    height: 75px;
+    font-size: 50px;
+    color: black;
+    cursor: pointer;
+    background: #b9b9b6;
+}
+tr{
+    display: flex;
+}
+td{
+    flex: 2;
+}
+body{
+    background: black;
+}
+.optbtn{
+    background: #ffa45c;
+    color: white;
+    width: 100%;
+    height: 75px;
+    font-size: 50px;
+    cursor: pointer;
+}
